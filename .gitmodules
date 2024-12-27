@@ -1,0 +1,15 @@
+[submodule "TokenFaucet"]
+	path = TokenFaucet
+	url = https://github.com/Joaszek/TokenFaucet.git
+[submodule "SimpleStorage"]
+	path = SimpleStorage
+	url = https://github.com/Joaszek/SimpleStorage.git
+[submodule "SimpleWallet"]
+	path = SimpleWallet
+	url = https://github.com/Joaszek/SimpleWallet.git
+[submodule "Voting"]
+	path = Voting
+	url = https://github.com/Joaszek/Voting.git
+[submodule "Counter"]
+	path = Counter
+	url = https://github.com/Joaszek/Counter.git
